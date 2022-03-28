@@ -2,4 +2,4 @@
 
 ###Código pronto para apresentação da logo Python no lcd de 4 pinos do Arduino.
 
-![](https://photos.app.goo.gl/esQwB9v1soogAG6E6)
+![](https://github.com/manopac/Lcd_Python_Arduino/blob/master/logopython.jpg)
